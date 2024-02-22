@@ -1,0 +1,17 @@
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.calculator.resources
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mz-ab\OneDrive\Desktop\csharp\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
